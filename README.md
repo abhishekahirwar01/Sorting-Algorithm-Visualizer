@@ -19,7 +19,7 @@ Welcome to the Sorting Algorithm Visualizer! This web application visualizes var
 
 ## Demo
 
-Check out the live demo [here](https://github.com/abhishekahirwar01/Sorting-Algorithm-Visualizer/).
+Check out the live demo [click Here:](https://abhishekahirwar01.github.io/Sorting-Algorithm-Visualizer/).
 
 ## Technologies Used
 
@@ -32,5 +32,5 @@ Check out the live demo [here](https://github.com/abhishekahirwar01/Sorting-Algo
 
 Abhishek Ahirwar - [ahirwarabhi01@gmail.com](ahirwarabhi01@gmail.com)
 
-Project Link: [https://github.com/abhishekahirwar01/Sorting-Algorithm-Visualizer](https://github.com/abhishekahirwar01/Sorting-Algorithm-Visualizer)
+Project Link: [https://abhishekahirwar01.github.io/Sorting-Algorithm-Visualizer](https://abhishekahirwar01.github.io/Sorting-Algorithm-Visualizer)
 
