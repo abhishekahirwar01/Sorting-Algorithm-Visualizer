@@ -19,7 +19,7 @@ Welcome to the Sorting Algorithm Visualizer! This web application visualizes var
 
 ## Demo
 
-Check out the live demo [here](https://navodayanvinu.github.io/Sorting-Algorithm-Visualizer/).
+Check out the live demo [here](https://github.com/abhishekahirwar01/Sorting-Algorithm-Visualizer/).
 
 ## Technologies Used
 
@@ -30,7 +30,7 @@ Check out the live demo [here](https://navodayanvinu.github.io/Sorting-Algorithm
 
 ## Contact
 
-Vinod Malviya - [vk.malviya2002@gmail.com](vk.malviya2002@gmail.com)
+Abhishek Ahirwar - [ahirwarabhi01@gmail.com](ahirwarabhi01@gmail.com)
 
-Project Link: [https://navodayanvinu.github.io/Sorting-Algorithm-Visualizer](https://navodayanvinu.github.io/Sorting-Algorithm-Visualizer)
+Project Link: [https://github.com/abhishekahirwar01/Sorting-Algorithm-Visualizer](https://github.com/abhishekahirwar01/Sorting-Algorithm-Visualizer)
 
